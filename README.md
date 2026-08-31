@@ -35,5 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0636-exclusive-time-of-functions](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
