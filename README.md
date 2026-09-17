@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0636-exclusive-time-of-functions](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
+| [1004-max-consecutive-ones-iii](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -89,4 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/hasini-tatikonda/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
